@@ -7,4 +7,4 @@ echo
 echo
 echo
 echo
-echo "\033[1;32m Setup Thành Công ! Gõ \033[1;33mdragonx_offline \033[1;32mĐể Vào Tools."
+echo '\033[1;32m Setup Thành Công ! Gõ \033[1;33mdragonx_offline \033[1;32mĐể Vào Tools.'
